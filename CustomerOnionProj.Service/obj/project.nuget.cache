@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQmRfd+i1eVxcNq4Voi0/ch6ESy/mmSsBqtuW0QdeC/EsLK0b+3yi0TLcTqFs7WdpmugVl/28Q88Lq63NFkuXg==",
+  "dgSpecHash": "W293C34NfOJSDX0Y/LzIL77WxQWlFM4zEW6g5YbpOnuN2vlHJK4XoQ6AMNlH7LoJ9/UvRzra17gwLPrKjEr0/g==",
   "success": true,
-  "projectFilePath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj",
+  "projectFilePath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

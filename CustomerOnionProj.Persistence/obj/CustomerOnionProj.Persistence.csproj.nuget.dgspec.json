@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj": {}
+    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj": {
+    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
+        "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
         "projectName": "CustomerOnionProj.Domain",
-        "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
+        "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
         "packagesPath": "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\",
-        "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\obj\\",
+        "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj": {
+    "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj",
+        "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj",
         "projectName": "CustomerOnionProj.Persistence",
-        "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj",
+        "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\CustomerOnionProj.Persistence.csproj",
         "packagesPath": "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\",
-        "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\obj\\",
+        "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj": {
-                "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj"
+              "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj": {
+                "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj"
               }
             }
           }

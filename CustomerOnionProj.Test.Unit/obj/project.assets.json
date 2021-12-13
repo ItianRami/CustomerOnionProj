@@ -11080,11 +11080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\CustomerOnionProj.Test.Unit.csproj",
+      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\CustomerOnionProj.Test.Unit.csproj",
       "projectName": "CustomerOnionProj.Test.Unit",
-      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\CustomerOnionProj.Test.Unit.csproj",
+      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\CustomerOnionProj.Test.Unit.csproj",
       "packagesPath": "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\",
-      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\obj\\",
+      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11104,8 +11104,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.csproj": {
-              "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.csproj"
+            "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.csproj": {
+              "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.csproj"
             }
           }
         }

@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
+      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
       "projectName": "CustomerOnionProj.Domain",
-      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
+      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\CustomerOnionProj.Domain.csproj",
       "packagesPath": "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\",
-      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\obj\\",
+      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9741,11 +9741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\CustomerOnionProj.Infrastructure.csproj",
+      "projectUniqueName": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\CustomerOnionProj.Infrastructure.csproj",
       "projectName": "CustomerOnionProj.Infrastructure",
-      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\CustomerOnionProj.Infrastructure.csproj",
+      "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\CustomerOnionProj.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rami.Mohsen\\.nuget\\packages\\",
-      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\obj\\",
+      "outputPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9765,8 +9765,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj": {
-              "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj"
+            "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj": {
+              "projectPath": "D:\\docs\\Projects\\_Useful\\CustomerOnionProj\\CustomerOnionProj\\CustomerOnionProj.Service\\CustomerOnionProj.Service.csproj"
             }
           }
         }
