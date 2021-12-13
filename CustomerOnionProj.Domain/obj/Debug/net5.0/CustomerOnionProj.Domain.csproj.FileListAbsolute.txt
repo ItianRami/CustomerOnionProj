@@ -1,0 +1,12 @@
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\bin\Debug\net5.0\CustomerOnionProj.Domain.deps.json
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\bin\Debug\net5.0\CustomerOnionProj.Domain.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\bin\Debug\net5.0\ref\CustomerOnionProj.Domain.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\bin\Debug\net5.0\CustomerOnionProj.Domain.pdb
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.csproj.AssemblyReference.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.AssemblyInfoInputs.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.AssemblyInfo.cs
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.csproj.CoreCompileInputs.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\ref\CustomerOnionProj.Domain.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Domain\obj\Debug\net5.0\CustomerOnionProj.Domain.pdb

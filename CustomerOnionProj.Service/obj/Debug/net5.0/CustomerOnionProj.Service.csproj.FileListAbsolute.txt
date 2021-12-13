@@ -1,0 +1,17 @@
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Service.deps.json
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Service.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\ref\CustomerOnionProj.Service.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Service.pdb
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Domain.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Persistence.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Persistence.pdb
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\bin\Debug\net5.0\CustomerOnionProj.Domain.pdb
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.csproj.AssemblyReference.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.AssemblyInfoInputs.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.AssemblyInfo.cs
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.csproj.CoreCompileInputs.cache
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.csproj.CopyComplete
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\ref\CustomerOnionProj.Service.dll
+D:\docs\Projects\_Useful\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj\CustomerOnionProj.Service\obj\Debug\net5.0\CustomerOnionProj.Service.pdb
